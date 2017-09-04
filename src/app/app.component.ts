@@ -70,4 +70,8 @@ clearValues(): void{
   this.studYr = null;
 }
 
+onSubmit(regObject){
+  console.log(regObject);
+}
+
 }

@@ -23,3 +23,7 @@ tr:nth-child(){
     background-color: #c0c0c0;
  
 }
+
+input.reg-invalid.ng-touched{
+    border: 1px solid red;
+}
